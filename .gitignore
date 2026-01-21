@@ -1,0 +1,21 @@
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Dependency/build folders
+bin/
+vendor/
+
+# Editor/OS noise
+.idea/
+.vscode/
+.DS_Store
+
+# App data files
+tasks.json
+tasks.json.tmp
